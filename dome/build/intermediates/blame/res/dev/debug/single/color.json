@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\design_error.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_tint_edittext.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_tint_spinner.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\state_press_black.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\src\\main\\res\\color\\state_press_black.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\selector_blue.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\src\\main\\res\\color\\selector_blue.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\fab_ripple.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\src\\main\\res\\color\\fab_ripple.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\abc_tint_default.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\color\\design_tint_password_toggle.xml"
+    }
+]

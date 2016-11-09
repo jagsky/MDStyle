@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
