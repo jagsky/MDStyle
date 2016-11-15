@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <!--设置状态栏色-->
+        <item name="android:colorPrimary">@color/colorAccent</item>
+        <!--这个是状态栏底色-->
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!--主视窗底色：windowBackground-->
+        <!--<item name="android:windowBackground">@color/colorPrimary</item>-->
+
+       <!--这个属性要在API21上使用，修改菜单栏的背景色-->
+        <item name="android:navigationBarColor">@color/colorAccent</item>
+    </style>
+
+</resources>

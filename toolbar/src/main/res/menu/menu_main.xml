@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <!--orderInCategory表示每个item中的优先级
+     值越大优先级越低，actionbar地方不够就会放到overflow中
+     showAsAction
+     当你的应用程序目标设为蜂巢平台（即 Android 3.0）时，你可以利用Action Bar部件提供的全部功能，
+     将你的选项菜单项放在Action Bar的右上角，对用户来说使用更方便，控制该行为的主菜单项属性是android:showAsAction。　这个属性可接受的值有：
+
+1.alaways:这个值会使菜单项一直显示在ActionBar上。
+
+2.ifRoom:如果有足够的空间,这个值会使菜单显示在ActionBar上。
+
+3.never:这个值菜单永远不会出现在ActionBar是。
+
+4.withText:这个值使菜单和它的图标，菜单文本一起显示。  -->
+    <item
+        android:id="@+id/action_edit"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="80"
+        android:actionViewClass="android.support.v7.widget.SearchView"
+        android:title="@string/action_edit"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_share"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="90"
+        android:title="@string/action_edit"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>

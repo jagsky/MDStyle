@@ -4,11 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CoordinateAppBarFloattablelayout.iml" filepath="$PROJECT_DIR$/CoordinateAppBarFloattablelayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinate_appbar_float_toolbar/coordinate_appbar_float_toolbar.iml" filepath="$PROJECT_DIR$/coordinate_appbar_float_toolbar/coordinate_appbar_float_toolbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/dome/dome.iml" filepath="$PROJECT_DIR$/dome/dome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentshardelementtest/fragmentshardelementtest.iml" filepath="$PROJECT_DIR$/fragmentshardelementtest/fragmentshardelementtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/jianshudome1/jianshudome1.iml" filepath="$PROJECT_DIR$/jianshudome1/jianshudome1.iml" />
       <module fileurl="file://$PROJECT_DIR$/tablayout/tablayout.iml" filepath="$PROJECT_DIR$/tablayout/tablayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/tablayout_fangjingdong/tablayout_fangjingdong.iml" filepath="$PROJECT_DIR$/tablayout_fangjingdong/tablayout_fangjingdong.iml" />
       <module fileurl="file://$PROJECT_DIR$/tablayout_viewpager_bottom/tablayout_viewpager_bottom.iml" filepath="$PROJECT_DIR$/tablayout_viewpager_bottom/tablayout_viewpager_bottom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbar/toolbar.iml" filepath="$PROJECT_DIR$/toolbar/toolbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transistion/transistion.iml" filepath="$PROJECT_DIR$/transistion/transistion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewoverlaytest/viewoverlaytest.iml" filepath="$PROJECT_DIR$/viewoverlaytest/viewoverlaytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerdome1/viewpagerdome1.iml" filepath="$PROJECT_DIR$/viewpagerdome1/viewpagerdome1.iml" />
     </modules>
   </component>
 </project>

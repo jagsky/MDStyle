@@ -1,1 +1,1 @@
-include ':app', ':tablayout', ':jianshudome1', ':tablayout_fangjingdong', ':tablayout_viewpager_bottom', 'dome'
+include ':app', ':tablayout', ':jianshudome1', ':tablayout_fangjingdong', ':tablayout_viewpager_bottom', ':toolbar', ':viewpagerdome1', ':coordinate_appbar_float_toolbar', ':transistion', ':viewoverlaytest', ':fragmentshardelementtest', 'dome'

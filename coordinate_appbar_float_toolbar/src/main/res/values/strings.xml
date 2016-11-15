@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coordinate_AppBar_Float_toolbar</string>
+    <string name="test">test</string>
+    <string name="tips_for_note">Record you daily activity</string>
+    <string name="tips_for_history">Recall history</string>
+    <string name="tips_for_report">Generate reports</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+</resources>

@@ -10,11 +10,17 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/coordinate_appbar_float_toolbar" />
             <option value="$PROJECT_DIR$/dome" />
+            <option value="$PROJECT_DIR$/fragmentshardelementtest" />
             <option value="$PROJECT_DIR$/jianshudome1" />
             <option value="$PROJECT_DIR$/tablayout" />
             <option value="$PROJECT_DIR$/tablayout_fangjingdong" />
             <option value="$PROJECT_DIR$/tablayout_viewpager_bottom" />
+            <option value="$PROJECT_DIR$/toolbar" />
+            <option value="$PROJECT_DIR$/transistion" />
+            <option value="$PROJECT_DIR$/viewoverlaytest" />
+            <option value="$PROJECT_DIR$/viewpagerdome1" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

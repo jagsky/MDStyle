@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="set.jag.com.toolbar.MainActivity">
+    <!--沿用之前action的一些属性-->
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/tol"
+        android:background="?attr/colorAccent"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize" />
+</LinearLayout>
