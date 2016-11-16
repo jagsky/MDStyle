@@ -4,12 +4,12 @@
         "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\src\\main\\res\\mipmap-xxhdpi\\ic_item_more.png"
     },
     {
-        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi\\ic_menu_home_normal.png",
-        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\src\\main\\res\\mipmap-xxhdpi\\ic_menu_home_normal.png"
-    },
-    {
         "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi\\ic_alipay_scan.png",
         "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\src\\main\\res\\mipmap-xxhdpi\\ic_alipay_scan.png"
+    },
+    {
+        "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi\\ic_menu_home_normal.png",
+        "source": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\src\\main\\res\\mipmap-xxhdpi\\ic_menu_home_normal.png"
     },
     {
         "merged": "D:\\sofeware\\Coding\\Android\\CoordinateAppBarFloattablelayout\\dome\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi\\ic_alipay_card.png",
